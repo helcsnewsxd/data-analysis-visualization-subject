@@ -26,4 +26,4 @@ Este repositorio contiene el material de la materia Análisis y Visualización d
 | TP | Enunciado | Desarrollo Personal | Entrega Grupal |
 |----|-----------|-------|---------|
 | 1 | [Análisis decriptivo de datos y utilización de herramientas](/evaluación/entregable1/original.ipynb) | [Ejercicio 1](/evaluación/entregable1/ej1_personal.ipynb) | [Completo](/evaluación/entregable1/grupal.ipynb) |
-| 2 | [Estimación de parámetros y test de hipótesis](/evaluación/entregable2/original.ipynb) | [Completo](/evaluación/entregable2/personal.ipynb) | *En proceso* |
+| 2 | [Estimación de parámetros y test de hipótesis](/evaluación/entregable2/original.ipynb) | [Completo](/evaluación/entregable2/personal.ipynb) | [Completo, el mío :)](/evaluación/entregable2/personal.ipynb) |
