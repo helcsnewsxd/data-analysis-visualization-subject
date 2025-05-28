@@ -1,3 +1,8 @@
+> [!note]
+> This repository contains slides, theoretical materials, and practical assignments (including Jupyter Notebooks) for the Data Analysis and Visualization course of the Data Science Diploma at FAMAF – Universidad Nacional de Córdoba.
+>
+> All content is in Spanish, as it was produced for academic use and course submission.
+
 # Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones - 2024
 
 ## Análisis y Visualización de Datos
